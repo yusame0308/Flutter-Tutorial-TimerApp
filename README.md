@@ -1,3 +1,3 @@
 # riverpod_timer_app_tutorial
 
-Flutter Riverpod tutorial Timerapp
+RiverPodのチュートリアルを見ながら作ったタイマーアプリ
